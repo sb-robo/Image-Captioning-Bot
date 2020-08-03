@@ -1,0 +1,1 @@
+# Image Captioning Bot with Resnet50 Model (Flickr8k)
