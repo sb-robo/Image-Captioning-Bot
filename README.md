@@ -33,4 +33,4 @@ In this model, RNN is only used as language model. RNN is feeded the word embedd
 These two representation i.e. language feature and image feature are appended together and feeded into another Feed Forward neural network. This FNN will output a vector of size equal to size of vocabulary. Index of highest value in that vector represents the next word of caption which is combined with the partial caption and again process continues untill we get the 'endseq' token from FNN.
 
 ## Architecuture used in Notebook:
-![Architecture](architecture.png)
+![Architecture](Architecture.png)
